@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/joe-rogan-0001">
-    <img src="https://discord.c99.nl/widget/theme-1/817859296283983892.png" alt="joe-rogan-0001"/>
+    <img src="https://discord.c99.nl/widget/theme-3/817859296283983892.png" alt="joe-rogan-0001"/>
      </a>
 </p>
 
