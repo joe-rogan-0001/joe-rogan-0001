@@ -1,0 +1,2 @@
+[![joe-rogan-0001's github stats](https://github-readme-stats.vercel.app/api?username=joe-rogan-0001&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=joe-rogan-0001&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=ec7460&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ec7460&hide_title=true&count_private=true&enable_animations=true)
